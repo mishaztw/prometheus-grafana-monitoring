@@ -24,4 +24,4 @@
 ![Дашборд Grafana](grafana.png)
 
 2. Сбор данных в Prometheus
-![Prometheus Targets](prometheus.png)
+<img width="1912" height="664" alt="prometheusTargets" src="https://github.com/user-attachments/assets/89127de7-4cd3-45e9-b7de-9726c90b4208" />
