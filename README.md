@@ -15,8 +15,8 @@
 3. В папке с проектом выполните команду:
    ```bash
    docker compose up -d
-4. Открыть Prometheus: http://localhost:9090 (Status → Targets — обе цели должны быть UP).
-5. Открыть Grafana: http://localhost:3000 (логин: admin, пароль: admin).
+4. Открыть Prometheus: http://localhost:9090 
+5. Открыть Grafana: http://localhost:3000 (логин:admin,пароль:admin).
 6. Импорт дашборда с ID 23942 (Windows Exporter Dashboard 2025).
 
 Скриношоты: 
